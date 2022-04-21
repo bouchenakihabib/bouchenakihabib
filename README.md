@@ -44,7 +44,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/habib-bouchenaki-963523222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habib-bouchenaki-963523222" height="30" width="40" /></a>
 </p>
+
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bouchenakihabib">
 </a>
