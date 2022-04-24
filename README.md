@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **at Sorbonne Sciences STL Master (second year)**
 
-- 👨‍💻 All of my projects are available at [my port folio](my port folio)
+- 👨‍💻 All of my projects are available at [https://bouchenaki-habib.com](my port folio)
 
 - 📫 How to reach me **bouchenaki.habib@yahoo.fr**
 
