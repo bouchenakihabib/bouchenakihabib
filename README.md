@@ -32,11 +32,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/bouchenakihabib/github-readme-activity-graph"><img alt="Habib Bouchenaki's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bouchenakihabib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/habib-bouchenaki-963523222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habib-bouchenaki-963523222" height="30" width="40" /></a>
